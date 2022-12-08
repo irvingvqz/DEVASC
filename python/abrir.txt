@@ -1,0 +1,7 @@
+el 
+
+script ha 
+
+abierto el archivo 
+
+txt.
